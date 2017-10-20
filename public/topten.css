@@ -16,6 +16,8 @@ h2 {
 b {
   color: white;
   display: block;
-  margin: auto;
+  text-align: center;
   white-space: pre;
 }
+
+
