@@ -1,0 +1,21 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+b {
+  color: white;
+  display: block;
+  margin: auto;
+  white-space: pre;
+}
